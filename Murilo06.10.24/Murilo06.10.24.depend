@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728224543 source:c:\users\murilo\documents\codebprojects\murilo06.10.24\main.c
+	<stdio.h>
+	<stdlib.h>
+
